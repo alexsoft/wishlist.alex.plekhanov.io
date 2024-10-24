@@ -1,0 +1,5 @@
+baseURL = 'http://wishlist.alex.plekhanov.io/'
+languageCode = 'en-us'
+title = 'Alex Wishlist'
+
+theme = "devise"
